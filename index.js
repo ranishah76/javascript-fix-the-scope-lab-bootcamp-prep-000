@@ -1,17 +1,9 @@
-var animal = 'dog'
-
-function myAnimal() {
-var animal = cat
-  return ${animal}
-}
-console.log(myAnimal)
-
-function yourAnimal() {
-  return animal
-}
+var animal = 'cat'
+return animal 
 
 
 function add2(n) {
+  const two = 2 
   return n + two
 
   // Feel free to move things around!
